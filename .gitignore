@@ -1,0 +1,57 @@
+/tfod
+/Tensorflow
+/.ipynb_checkpoints
+/ipynb_checkpoints
+.ipynb_checkpoints
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.dll
+*.so
+*.dylib
+*.pyd
+
+# CMake build directory
+build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Visual Studio build files
+*.obj
+*.pdb
+*.exe
+*.ilk
+*.log
+*.sdf
+*.ipch
+*.vcxproj*
+*.opensdf
+*.tlog
+
+# Python virtual environment
+venv/
+env/
+*.egg-info/
+*.egg/
+dist/
+build/
+
+# Conda environments (if present)
+*.conda
+*.env
+*.packaged_env
+conda-meta/
+*.lock
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# Misc
+*.DS_Store
+*.swp
