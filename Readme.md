@@ -237,20 +237,3 @@ The notebook includes code for real-time detection using a webcam. Press `q` to 
 
 ---
 
-## Contributing
-
-Contributions are welcome! To contribute:
-
-1. Fork the repository.
-2. Create a feature branch.
-3. Commit changes.
-4. Push to the branch.
-5. Open a pull request.
-
----
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
----
