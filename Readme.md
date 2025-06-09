@@ -1,6 +1,6 @@
 # TensorFlow Object Detection Model Training and Deployment
 
-This project provides a comprehensive guide and implementation for training a custom object detection model using the TensorFlow Object Detection (TFOD) API on a Windows system. The model is trained to detect specific objects related to safety equipment and fall detection, such as hardhats, gloves, goggles, safety vests, ladders, and more. The pipeline includes setup, training, evaluation, and deployment for real-time detection, as well as conversion to TensorFlow.js (TFJS) and TensorFlow Lite (TFLite) formats for web and mobile applications.in order to get the evaluation score run accuracy.py file
+This project provides a comprehensive guide and implementation for training a custom object detection model using the TensorFlow Object Detection (TFOD) API on a Windows system. The model is trained to detect specific objects related to safety equipment and fall detection, such as hardhats, gloves, goggles, safety vests, ladders, and more. The pipeline includes setup, training, evaluation, and deployment for real-time detection, as well as conversion to TensorFlow.js (TFJS) and TensorFlow Lite (TFLite) formats for web and mobile applications.in order to get the evaluation score run accuracy.py file and the images also included .
 
 ---
 
